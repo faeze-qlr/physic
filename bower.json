@@ -1,0 +1,27 @@
+{
+  "name": "Faeze Qlr's CV",
+  "version": "1.0.0",
+  "homepage": "https://faeze-qlr.github.io/resume/",
+  "authors": [
+    "Faeze Qollar"
+  ],
+  "description": "Teacher & Computer Engineer",
+  "keywords": [
+    "CV",
+    "Web Designer",
+    "Web Developer",
+    "Web Front-end"
+  ],
+  "license": "CC BY 3.0",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "pagepiling.js": "~0.0.7"
+  }
+}
+
